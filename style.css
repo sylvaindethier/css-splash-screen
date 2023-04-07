@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+}
+
+#splash {
+  display: grid;
+  place-items: center;
+}
+.container {
+  margin: 0 auto;
+  width: 48rem;
+}
